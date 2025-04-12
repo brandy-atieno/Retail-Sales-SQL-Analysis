@@ -15,4 +15,5 @@ The steps Involved
 9. What are the monthly sales trends?
 10. How are the sales,revenue and cogs?)
    
-![dashboard](https://github.com/user-attachments/assets/0f5e022d-747b-445e-9bbc-903ae2f29df5)
+
+![Dash](https://github.com/user-attachments/assets/9d981ee1-a8dc-448f-8974-8fa696d242de)
