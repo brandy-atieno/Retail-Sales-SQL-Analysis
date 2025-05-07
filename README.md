@@ -9,11 +9,11 @@ The steps Involved
 4. Business Question Analysis
 5. Visualization
 
-6. Here's Summary Dashboard(The flow :
-7. What are we selling based on the categories?
-8. Who are our customers based on age groups and gender?
-9. What are the monthly sales trends?
-10. How are the sales,revenue and cogs?)
+6. Here's Summary of  Dashboard The  Analysis Information :
+ - What are we selling based on the categories?
+ - Who are our customers based on age groups and gender?
+ - What are the monthly sales trends?
+ - How are the sales,revenue and cogs?)
    
 
 ![Dash](https://github.com/user-attachments/assets/9d981ee1-a8dc-448f-8974-8fa696d242de)
